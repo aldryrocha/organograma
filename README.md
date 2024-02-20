@@ -2,8 +2,6 @@
 
 This project was developed during an Alura course, to learn how to use React. The aim on this project was to register employees in their respective technological teams using react. It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-You can see on https://organo-is0gannss-aldryrocha.vercel.app/
-
 ## Installing
 
 If you want to install this project locally and make changes, follow these three very simple steps:
