@@ -1,4 +1,4 @@
-import './colaborador.css'
+import './Colaborador.css'
 import { AiFillCloseCircle, AiFillHeart, AiOutlineHeart } from 'react-icons/ai';
 
 const Colaborador = ({ colaborador, corDeFundo, aoDeletar, aoFavoritar }) => {
