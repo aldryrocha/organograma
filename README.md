@@ -1,4 +1,4 @@
-## @aldryrocha' Organo
+## @aldryrocha' Organograma
 
 This project was developed during an Alura course, to learn how to use React. The aim on this project was to register employees in their respective technological teams using react. It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -7,8 +7,8 @@ This project was developed during an Alura course, to learn how to use React. Th
 If you want to install this project locally and make changes, follow these three very simple steps:
 
 ```bash
-$ git clone git@github.com:aldryrocha/organo
-$ cd organo
+$ git clone git@github.com:aldryrocha/organograma
+$ cd organograma
 $ npm i
 ```
 
