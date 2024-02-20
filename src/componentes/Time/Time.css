@@ -1,16 +1,27 @@
-.time{
+.time {
     text-align: center;
     padding: 32px;
+    background-blend-mode: multiply;
+    position: relative;
 }
-.time .colaboradores{
+
+.time h3 {
+    font-size: 32px;
+    font-family: 'Prata';
+    border-bottom: 4px solid;
+    display: inline-block;
+    padding-bottom: 8px;
+}
+
+.time .colaboradores {
     display: flex;
     justify-content: space-around;
     margin-top: 32px;
-    flex-wrap:wrap;
+    flex-wrap: wrap;
 }
-.time h3{
-    font-size: 32px;
-    border-bottom: 4px solid;
-    display: inline-flex;
-    padding-bottom: 8px;
+
+.input-cor {
+    position: absolute;
+    top: 20px;
+    right: 50px;
 }
